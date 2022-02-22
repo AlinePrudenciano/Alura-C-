@@ -1,0 +1,7 @@
+C:\Users\Aline Oliveira\source\repos\TestaEscopo\TestaEscopo\bin\Debug\TestaEscopo.exe.config
+C:\Users\Aline Oliveira\source\repos\TestaEscopo\TestaEscopo\bin\Debug\TestaEscopo.exe
+C:\Users\Aline Oliveira\source\repos\TestaEscopo\TestaEscopo\bin\Debug\TestaEscopo.pdb
+C:\Users\Aline Oliveira\source\repos\TestaEscopo\TestaEscopo\obj\Debug\TestaEscopo.csproj.AssemblyReference.cache
+C:\Users\Aline Oliveira\source\repos\TestaEscopo\TestaEscopo\obj\Debug\TestaEscopo.csproj.CoreCompileInputs.cache
+C:\Users\Aline Oliveira\source\repos\TestaEscopo\TestaEscopo\obj\Debug\TestaEscopo.exe
+C:\Users\Aline Oliveira\source\repos\TestaEscopo\TestaEscopo\obj\Debug\TestaEscopo.pdb
