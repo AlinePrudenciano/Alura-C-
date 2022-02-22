@@ -1,0 +1,7 @@
+C:\Users\Aline Oliveira\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\bin\Debug\ConversoesEOutrosTiposNumericos.exe.config
+C:\Users\Aline Oliveira\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\bin\Debug\ConversoesEOutrosTiposNumericos.exe
+C:\Users\Aline Oliveira\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\bin\Debug\ConversoesEOutrosTiposNumericos.pdb
+C:\Users\Aline Oliveira\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\Aline Oliveira\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.exe
+C:\Users\Aline Oliveira\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.pdb
+C:\Users\Aline Oliveira\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.csproj.AssemblyReference.cache
